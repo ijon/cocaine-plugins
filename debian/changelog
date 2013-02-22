@@ -1,3 +1,9 @@
+cocaine-plugins (0.9.7) lucid; urgency=low
+
+  * zmq 3.x compatibility added
+
+ -- Rim Zaidullin <rimz@yandex-team.ru>  Fri, 23 Feb 2013 00:38:17 +0400
+
 cocaine-plugins (0.9.6) lucid; urgency=low
 
   * Experimental support for Python virtualenv bundles.
